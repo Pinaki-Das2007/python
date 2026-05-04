@@ -1,1 +1,4 @@
-print(1+1)
+name = "Krish"
+Name = "Naik"
+print(name)
+print(Name)

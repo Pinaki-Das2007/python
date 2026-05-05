@@ -11,4 +11,13 @@ print(type(is_student))
 fl_age = float(age)
 print(type(fl_age))
 
+var = 10
+print(var,type(var))
 
+
+var = "hello"
+print(var,type(var))
+
+
+var = 3.14
+print(var,type(var))

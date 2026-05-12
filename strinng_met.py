@@ -1,5 +1,2 @@
-str = "hello"
-print(str)
-
-capstr = str.capitalize()
-print(capstr)
+range(0,5)
+print(range(0,5))

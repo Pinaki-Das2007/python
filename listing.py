@@ -26,25 +26,16 @@ print(fruits)
 fruits.insert(1,"grapes")
 print(fruits)
 
-fruits.remove("apple")
-print(fruits)
 
-
-popped_fruits = fruits.pop()
-print(fruits)
-print(popped_fruits)
-
-print(fruits)
-pooped_fruits2 = fruits.pop()
-print(pooped_fruits2)
-
-
-print(fruits)
-
-
-index = fruits.index("banana")
-print(index)
 
 fruits.insert(1,"dragonfruit")
 print(fruits)
 
+fruits.sort()
+print(fruits)
+
+fruits.reverse()
+print(fruits)
+
+fruits.clear()
+print(fruits)

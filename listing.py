@@ -39,3 +39,14 @@ print(fruits)
 
 fruits.clear()
 print(fruits)
+
+
+
+lst = [1,2,3,4,5]
+print(lst)
+
+lst[1] = "krish"
+print(lst)
+
+lst[0] = "Pinaki"
+print(lst)

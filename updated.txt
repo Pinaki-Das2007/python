@@ -1,1 +1,6 @@
 updated file for git 
+
+
+crated this repo because i am maintaining this strik of git 
+but i was not avaible to this so ..... giving this fake push
+

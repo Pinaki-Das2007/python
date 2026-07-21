@@ -1,3 +1,9 @@
 proxy for github
 proxy done
 
+to create a new repository
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/pinaki/firstrepo.git
+

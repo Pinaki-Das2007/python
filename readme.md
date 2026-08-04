@@ -6,5 +6,6 @@ myenv\Scripts\activate
 conda activate C:\Users\PINAKI\Python\venv
 
 #Deactivating the virtual environment
+
 deactivate
 

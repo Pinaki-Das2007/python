@@ -1,7 +1,7 @@
 class employee:
-    salary = 10000
-    language = "Python"
+    language = "python"  # This is a class attribute
+    salary = 1200000
 
 harry = employee()
-harry.language = "JavaScript"
-print(harry.name,harry.language,harry.salary)
+harry.language = "java"  # This is an object / instance attribute
+print( harry.language, harry.salary)

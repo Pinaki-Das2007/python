@@ -1,4 +1,10 @@
 class Student:
+
+    # default constructor
+    def __init__(self):
+        pass
+
+    #parameterized constructor
     def __init__ (self,name,rollno):
         self.name = name
         self.rollno = rollno

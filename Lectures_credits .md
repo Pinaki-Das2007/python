@@ -7,3 +7,4 @@ Mentioning there names here, we will learn from the following teachers:
 2. Code with harry - Python - Yotube
 3. Apna college - OOPS in python - Youtube
 4. Coding with Sagar - Numpy for datascience - Youtube
+5. Coding with Sagar - Pandas for datascience - Youtube(Part 1 and Part 2)

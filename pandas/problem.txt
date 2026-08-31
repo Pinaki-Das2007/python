@@ -1,0 +1,14 @@
+1- columns,rows
+2- what type of data
+3- missing data
+
+info() method
+it gives the information about the dataframe
+
+1- Number of rows and columns
+2- column name
+3- Data type of each column
+either int64 or float64
+
+4- non null counts
+5- memory usease of data frame

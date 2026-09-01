@@ -14,4 +14,4 @@ print("Sample Data Frame:")
 print(df)
 
 print("Descriptive Statistics ")
-print(df.describe())
+print(df.describe()) 

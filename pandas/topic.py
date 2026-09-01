@@ -1,0 +1,27 @@
+"""
+1- How big your dataset is ?
+2- what are the name sof coulumns ?
+
+Pandas proivides 2 methods for it
+
+shape and columns
+
+
+"""
+
+import pandas as pd
+
+data = {
+    "Name": ['Ram', 'Shyam', 'Ghanshyam','Dhansyam','Aditi','Jagdish','Raj','Simran'],
+    "Age": [28,34,22,30,29,40,25,32],
+    "Salary": [50000, 60000, 45000, 52000, 49000, 70000,48000,58000],
+    "Performance Score":[85,90,78,92,88,95,80,89]
+}
+
+
+df = pd.DataFrame(data)
+print(df)
+print(f"Shape of the data frame is:{df.shape}")
+print(f"Column names of the data frame are:{df.columns}")
+
+

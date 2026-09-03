@@ -1,0 +1,10 @@
+In interpolation we will enter a explicit value for the missing data
+
+
+used to
+1-preserve the data
+2- smooth data
+3- Avoid data loss
+
+
+interpolate()

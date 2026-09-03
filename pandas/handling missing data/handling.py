@@ -13,7 +13,5 @@ data = {
 
 df = pd.DataFrame(data)
 print(df)
-# df.dropna( inplace=True)  # drop rows with missing values
-df["Age"].fillna(df["Age"].mean(), inplace=True)  # fill missing values with mean
-df["Salary"].fillna(df["Salary"].mean(), inplace=True)  # fill missing values with mean
+df.dropna( inplace=True)  # drop rows with missing values
 print(df)

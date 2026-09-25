@@ -13,4 +13,4 @@ if name:
 
 options = ["Python", "Java", "C++", "JavaScript"]
 choice = st.selectbox("Select your favorite programming language", options)
-st.write(f"Your favorite programming language is {choice}")
+st.write(f"Your favorite programming language is {choice}") 

@@ -30,3 +30,9 @@ print(name.find("  "))
 print("Question 4")
 word = "Harry  is a  good boy"
 print(word.replace("  "," "))
+
+
+""" Question 5"""
+print("Question 5")
+letter = "Dear Harry,\n \t This Python course is nice.\n Thanks!"
+print(letter)

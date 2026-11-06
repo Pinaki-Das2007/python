@@ -18,4 +18,10 @@ name = input("Enter your name: ")
 date = input("Enter the date:")
 
 print(letter.replace("<| Name |>", name).replace("<| Date |>", str(date)))
-   
+
+
+"""" Question 3"""
+print("Question 3")
+
+word = "Harry  is a  good boy"
+print(name.find("  "))

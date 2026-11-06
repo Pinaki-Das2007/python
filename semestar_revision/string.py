@@ -11,3 +11,5 @@ print(name.startswith("H"))
 
 name2="pinaki"
 print(name2.capitalize())
+
+

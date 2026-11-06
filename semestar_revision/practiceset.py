@@ -1,0 +1,2 @@
+name = input("Hello User !! Enter your name: ")
+print("Hello " + name + "  Good afternoon !! Welcome to the world of Python Programming. Today we will learn about Strings in Python. Let's get started !!") 

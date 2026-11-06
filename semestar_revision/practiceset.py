@@ -25,3 +25,8 @@ print("Question 3")
 
 word = "Harry  is a  good boy"
 print(name.find("  "))
+
+""" Question 4"""
+print("Question 4")
+word = "Harry  is a  good boy"
+print(word.replace("  "," "))
